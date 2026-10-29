@@ -1,0 +1,214 @@
+{
+ "format": 1,
+ "objects": [
+  {
+   "fields": {
+    "player": 0,
+    "startPoint": 0,
+    "yaw": 0
+   },
+   "name": "start",
+   "pos": [
+    0,
+    8,
+    1050
+   ],
+   "size": 14,
+   "type": "stock:objtype/0xD",
+   "uid": "start1"
+  },
+  {
+   "fields": {
+    "animGroup": -1,
+    "arg1A": 1,
+    "condition": -1,
+    "levelHigh": 255,
+    "radius": 70,
+    "startPoint": 21,
+    "unlockWorld": -1
+   },
+   "name": "back to the hub",
+   "pos": [
+    0,
+    2,
+    1270
+   ],
+   "size": 28,
+   "target": "pack:level/hub",
+   "type": "stock:objtype/0xB",
+   "uid": "back_to_the_hub1"
+  },
+  {
+   "fields": {
+    "size": 64,
+    "unused0D": 1
+   },
+   "name": "urn",
+   "pos": [
+    -300,
+    2,
+    350
+   ],
+   "schema": "damagecrate",
+   "size": 14,
+   "type": "stock:objtype/0x16F",
+   "uid": "urn1"
+  },
+  {
+   "fields": {
+    "size": 64,
+    "unused0D": 1
+   },
+   "name": "alien pod",
+   "pos": [
+    0,
+    2,
+    350
+   ],
+   "schema": "damagecrate",
+   "size": 14,
+   "type": "stock:objtype/0x1A8",
+   "uid": "alien_pod1"
+  },
+  {
+   "fields": {
+    "size": 64,
+    "unused0D": 1
+   },
+   "name": "crate",
+   "pos": [
+    300,
+    2,
+    350
+   ],
+   "schema": "damagecrate",
+   "size": 14,
+   "type": "stock:objtype/0x58",
+   "uid": "crate1"
+  },
+  {
+   "name": "floating 0x6C",
+   "params": "08003f800000",
+   "pos": [
+    -525,
+    60,
+    100
+   ],
+   "size": 16,
+   "type": "stock:objtype/0x6C",
+   "uid": "floating_0x6C_raw"
+  },
+  {
+   "name": "floating 0x2E6",
+   "params": "08003f800000",
+   "pos": [
+    -375,
+    60,
+    100
+   ],
+   "size": 16,
+   "type": "stock:objtype/0x2E6",
+   "uid": "floating_0x2E6_raw"
+  },
+  {
+   "name": "floating 0x2E8",
+   "params": "08003f800000",
+   "pos": [
+    -225,
+    60,
+    100
+   ],
+   "size": 16,
+   "type": "stock:objtype/0x2E8",
+   "uid": "floating_0x2E8_raw"
+  },
+  {
+   "name": "floating 0x2E9",
+   "params": "08003f800000",
+   "pos": [
+    -75,
+    60,
+    100
+   ],
+   "size": 16,
+   "type": "stock:objtype/0x2E9",
+   "uid": "floating_0x2E9_raw"
+  },
+  {
+   "name": "floating 0x2EA",
+   "params": "08003f800000",
+   "pos": [
+    75,
+    60,
+    100
+   ],
+   "size": 16,
+   "type": "stock:objtype/0x2EA",
+   "uid": "floating_0x2EA_raw"
+  },
+  {
+   "name": "floating 0x2EB",
+   "params": "08003f800000",
+   "pos": [
+    225,
+    60,
+    100
+   ],
+   "size": 16,
+   "type": "stock:objtype/0x2EB",
+   "uid": "floating_0x2EB_raw"
+  },
+  {
+   "name": "floating 0x185",
+   "params": "08003f800000",
+   "pos": [
+    375,
+    60,
+    100
+   ],
+   "size": 16,
+   "type": "stock:objtype/0x185",
+   "uid": "floating_0x185_raw"
+  },
+  {
+   "name": "floating 0x27D",
+   "params": "08003f800000",
+   "pos": [
+    525,
+    60,
+    100
+   ],
+   "size": 16,
+   "type": "stock:objtype/0x27D",
+   "uid": "floating_0x27D_raw"
+  },
+  {
+   "name": "bouncy bridge",
+   "params": "5a6e33c0eb0a3600",
+   "pos": [
+    0,
+    60,
+    -650
+   ],
+   "size": 18,
+   "type": "stock:objtype/0xBC",
+   "uid": "bouncy_bridge_raw"
+  },
+  {
+   "fields": {
+    "player": 0,
+    "startPoint": 1,
+    "yaw": 0
+   },
+   "name": "inside",
+   "pos": [
+    0,
+    8,
+    600
+   ],
+   "size": 14,
+   "type": "stock:objtype/0xD",
+   "uid": "inside1"
+  }
+ ]
+}

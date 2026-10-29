@@ -1,0 +1,24 @@
+{
+ "format": 1,
+ "header": {
+  "cutsceneData": 3,
+  "fog3": 0,
+  "fogB": 0,
+  "fogFar": 0,
+  "fogG": 0,
+  "fogNear": 0,
+  "fogR": 0,
+  "region": 0,
+  "regionIndex": 0,
+  "tune": 4,
+  "tuneChannelMask": 65535,
+  "world": 15
+ },
+ "name": "Hero bodies",
+ "playerBodies": {
+  "juno": 4,
+  "vela": 33
+ },
+ "sky": -1,
+ "track": "pack:track/room"
+}

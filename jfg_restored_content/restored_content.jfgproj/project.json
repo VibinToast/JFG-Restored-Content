@@ -1,0 +1,15 @@
+{
+ "authors": [
+  "VibinToast"
+ ],
+ "dependencies": [],
+ "description": "The game's cut enemies, made to work again so level packs can place them. On its own it adds nothing to the game: it is what packs like the Restored Content Gallery build on, and it is installed with them.",
+ "format": 1,
+ "id": "jfg_restored_content",
+ "name": "Restored Content",
+ "version": "0.1.1",
+ "shortDescription": "The game's cut enemies, working again, for level packs to use.",
+ "tags": [
+  "Content"
+ ]
+}

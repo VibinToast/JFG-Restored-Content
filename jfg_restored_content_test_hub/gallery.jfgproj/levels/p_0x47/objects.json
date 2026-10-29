@@ -1,0 +1,57 @@
+{
+ "format": 1,
+ "objects": [
+  {
+   "fields": {
+    "player": 0,
+    "startPoint": 0,
+    "yaw": 0
+   },
+   "pos": [
+    0,
+    8,
+    1050
+   ],
+   "size": 14,
+   "type": "stock:objtype/0xD",
+   "uid": "startpoint1"
+  },
+  {
+   "fields": {
+    "animGroup": -1,
+    "arg1A": 1,
+    "condition": -1,
+    "levelHigh": 255,
+    "radius": 70,
+    "startPoint": 15,
+    "unlockWorld": -1
+   },
+   "name": "back to the hub",
+   "pos": [
+    0,
+    2,
+    1270
+   ],
+   "size": 28,
+   "target": "pack:level/hub",
+   "type": "stock:objtype/0xB",
+   "uid": "back_to_the_hub1"
+  },
+  {
+   "fields": {
+    "player": 0,
+    "startPoint": 3,
+    "yaw": 48
+   },
+   "name": "on the board",
+   "pos": [
+    -500,
+    110,
+    0
+   ],
+   "size": 14,
+   "type": "stock:objtype/0xD",
+   "uid": "on_the_board1"
+  }
+ ]
+}

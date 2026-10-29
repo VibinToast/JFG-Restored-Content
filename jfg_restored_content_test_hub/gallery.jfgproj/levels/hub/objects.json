@@ -1,0 +1,930 @@
+{
+ "format": 1,
+ "objects": [
+  {
+   "fields": {
+    "player": 0,
+    "startPoint": 0,
+    "yaw": 48
+   },
+   "name": "start",
+   "pos": [
+    -1200,
+    8,
+    0
+   ],
+   "size": 14,
+   "type": "stock:objtype/0xD",
+   "uid": "start1"
+  },
+  {
+   "fields": {
+    "animGroup": -1,
+    "arg1A": 1,
+    "condition": -1,
+    "levelHigh": 255,
+    "radius": 60,
+    "startPoint": 0,
+    "unlockWorld": -1
+   },
+   "name": "to e_0xe6",
+   "pos": [
+    -1050,
+    2,
+    -400
+   ],
+   "size": 28,
+   "target": "pack:level/e_0xe6",
+   "type": "stock:objtype/0xB",
+   "uid": "to_e_0xe1"
+  },
+  {
+   "fields": {
+    "player": 0,
+    "startPoint": 1,
+    "yaw": 32
+   },
+   "name": "from e_0xe6",
+   "pos": [
+    -1050,
+    8,
+    -200
+   ],
+   "size": 14,
+   "type": "stock:objtype/0xD",
+   "uid": "from_e_0xe1"
+  },
+  {
+   "fields": {
+    "animGroup": -1,
+    "arg1A": 1,
+    "condition": -1,
+    "levelHigh": 255,
+    "radius": 60,
+    "startPoint": 0,
+    "unlockWorld": -1
+   },
+   "name": "to e_0x166",
+   "pos": [
+    -750,
+    2,
+    -400
+   ],
+   "size": 28,
+   "target": "pack:level/e_0x166",
+   "type": "stock:objtype/0xB",
+   "uid": "to_e_0x1"
+  },
+  {
+   "fields": {
+    "player": 0,
+    "startPoint": 2,
+    "yaw": 32
+   },
+   "name": "from e_0x166",
+   "pos": [
+    -750,
+    8,
+    -200
+   ],
+   "size": 14,
+   "type": "stock:objtype/0xD",
+   "uid": "from_e_0x1"
+  },
+  {
+   "fields": {
+    "animGroup": -1,
+    "arg1A": 1,
+    "condition": -1,
+    "levelHigh": 255,
+    "radius": 60,
+    "startPoint": 0,
+    "unlockWorld": -1
+   },
+   "name": "to e_0x1e5",
+   "pos": [
+    -450,
+    2,
+    -400
+   ],
+   "size": 28,
+   "target": "pack:level/e_0x1e5",
+   "type": "stock:objtype/0xB",
+   "uid": "to_e_0x1e1"
+  },
+  {
+   "fields": {
+    "player": 0,
+    "startPoint": 3,
+    "yaw": 32
+   },
+   "name": "from e_0x1e5",
+   "pos": [
+    -450,
+    8,
+    -200
+   ],
+   "size": 14,
+   "type": "stock:objtype/0xD",
+   "uid": "from_e_0x1e1"
+  },
+  {
+   "fields": {
+    "animGroup": -1,
+    "arg1A": 1,
+    "condition": -1,
+    "levelHigh": 255,
+    "radius": 60,
+    "startPoint": 0,
+    "unlockWorld": -1
+   },
+   "name": "to e_0x83",
+   "pos": [
+    -150,
+    2,
+    -400
+   ],
+   "size": 28,
+   "target": "pack:level/e_0x83",
+   "type": "stock:objtype/0xB",
+   "uid": "to_e_0x2"
+  },
+  {
+   "fields": {
+    "player": 0,
+    "startPoint": 4,
+    "yaw": 32
+   },
+   "name": "from e_0x83",
+   "pos": [
+    -150,
+    8,
+    -200
+   ],
+   "size": 14,
+   "type": "stock:objtype/0xD",
+   "uid": "from_e_0x2"
+  },
+  {
+   "fields": {
+    "animGroup": -1,
+    "arg1A": 1,
+    "condition": -1,
+    "levelHigh": 255,
+    "radius": 60,
+    "startPoint": 0,
+    "unlockWorld": -1
+   },
+   "name": "to e_0xf1",
+   "pos": [
+    150,
+    2,
+    -400
+   ],
+   "size": 28,
+   "target": "pack:level/e_0xf1",
+   "type": "stock:objtype/0xB",
+   "uid": "to_e_0xf1"
+  },
+  {
+   "fields": {
+    "player": 0,
+    "startPoint": 5,
+    "yaw": 32
+   },
+   "name": "from e_0xf1",
+   "pos": [
+    150,
+    8,
+    -200
+   ],
+   "size": 14,
+   "type": "stock:objtype/0xD",
+   "uid": "from_e_0xf1"
+  },
+  {
+   "fields": {
+    "animGroup": -1,
+    "arg1A": 1,
+    "condition": -1,
+    "levelHigh": 255,
+    "radius": 60,
+    "startPoint": 0,
+    "unlockWorld": -1
+   },
+   "name": "to e_0x2a",
+   "pos": [
+    450,
+    2,
+    -400
+   ],
+   "size": 28,
+   "target": "pack:level/e_0x2a",
+   "type": "stock:objtype/0xB",
+   "uid": "to_e_0x2a1"
+  },
+  {
+   "fields": {
+    "player": 0,
+    "startPoint": 6,
+    "yaw": 32
+   },
+   "name": "from e_0x2a",
+   "pos": [
+    450,
+    8,
+    -200
+   ],
+   "size": 14,
+   "type": "stock:objtype/0xD",
+   "uid": "from_e_0x2a1"
+  },
+  {
+   "fields": {
+    "animGroup": -1,
+    "arg1A": 1,
+    "condition": -1,
+    "levelHigh": 255,
+    "radius": 60,
+    "startPoint": 0,
+    "unlockWorld": -1
+   },
+   "name": "to e_0x153",
+   "pos": [
+    750,
+    2,
+    -400
+   ],
+   "size": 28,
+   "target": "pack:level/e_0x153",
+   "type": "stock:objtype/0xB",
+   "uid": "to_e_0x3"
+  },
+  {
+   "fields": {
+    "player": 0,
+    "startPoint": 7,
+    "yaw": 32
+   },
+   "name": "from e_0x153",
+   "pos": [
+    750,
+    8,
+    -200
+   ],
+   "size": 14,
+   "type": "stock:objtype/0xD",
+   "uid": "from_e_0x3"
+  },
+  {
+   "fields": {
+    "animGroup": -1,
+    "arg1A": 1,
+    "condition": -1,
+    "levelHigh": 255,
+    "radius": 60,
+    "startPoint": 0,
+    "unlockWorld": -1
+   },
+   "name": "to e_0xe0",
+   "pos": [
+    1050,
+    2,
+    -400
+   ],
+   "size": 28,
+   "target": "pack:level/e_0xe0",
+   "type": "stock:objtype/0xB",
+   "uid": "to_e_0xe2"
+  },
+  {
+   "fields": {
+    "player": 0,
+    "startPoint": 8,
+    "yaw": 32
+   },
+   "name": "from e_0xe0",
+   "pos": [
+    1050,
+    8,
+    -200
+   ],
+   "size": 14,
+   "type": "stock:objtype/0xD",
+   "uid": "from_e_0xe2"
+  },
+  {
+   "fields": {
+    "animGroup": -1,
+    "arg1A": 1,
+    "condition": -1,
+    "levelHigh": 255,
+    "radius": 60,
+    "startPoint": 0,
+    "unlockWorld": -1
+   },
+   "name": "to e_0xdf",
+   "pos": [
+    -750,
+    2,
+    400
+   ],
+   "size": 28,
+   "target": "pack:level/e_0xdf",
+   "type": "stock:objtype/0xB",
+   "uid": "to_e_0xdf1"
+  },
+  {
+   "fields": {
+    "player": 0,
+    "startPoint": 9,
+    "yaw": 0
+   },
+   "name": "from e_0xdf",
+   "pos": [
+    -750,
+    8,
+    200
+   ],
+   "size": 14,
+   "type": "stock:objtype/0xD",
+   "uid": "from_e_0xdf1"
+  },
+  {
+   "fields": {
+    "animGroup": -1,
+    "arg1A": 1,
+    "condition": -1,
+    "levelHigh": 255,
+    "radius": 60,
+    "startPoint": 0,
+    "unlockWorld": -1
+   },
+   "name": "to e_0xf2",
+   "pos": [
+    -450,
+    2,
+    400
+   ],
+   "size": 28,
+   "target": "pack:level/e_0xf2",
+   "type": "stock:objtype/0xB",
+   "uid": "to_e_0xf2"
+  },
+  {
+   "fields": {
+    "player": 0,
+    "startPoint": 10,
+    "yaw": 0
+   },
+   "name": "from e_0xf2",
+   "pos": [
+    -450,
+    8,
+    200
+   ],
+   "size": 14,
+   "type": "stock:objtype/0xD",
+   "uid": "from_e_0xf2"
+  },
+  {
+   "fields": {
+    "animGroup": -1,
+    "arg1A": 1,
+    "condition": -1,
+    "levelHigh": 255,
+    "radius": 60,
+    "startPoint": 0,
+    "unlockWorld": -1
+   },
+   "name": "to e_0xf6",
+   "pos": [
+    -150,
+    2,
+    400
+   ],
+   "size": 28,
+   "target": "pack:level/e_0xf6",
+   "type": "stock:objtype/0xB",
+   "uid": "to_e_0xf3"
+  },
+  {
+   "fields": {
+    "player": 0,
+    "startPoint": 11,
+    "yaw": 0
+   },
+   "name": "from e_0xf6",
+   "pos": [
+    -150,
+    8,
+    200
+   ],
+   "size": 14,
+   "type": "stock:objtype/0xD",
+   "uid": "from_e_0xf3"
+  },
+  {
+   "fields": {
+    "animGroup": -1,
+    "arg1A": 1,
+    "condition": -1,
+    "levelHigh": 255,
+    "radius": 60,
+    "startPoint": 0,
+    "unlockWorld": -1
+   },
+   "name": "to e_0x68",
+   "pos": [
+    150,
+    2,
+    400
+   ],
+   "size": 28,
+   "target": "pack:level/e_0x68",
+   "type": "stock:objtype/0xB",
+   "uid": "to_e_0x4"
+  },
+  {
+   "fields": {
+    "player": 0,
+    "startPoint": 12,
+    "yaw": 0
+   },
+   "name": "from e_0x68",
+   "pos": [
+    150,
+    8,
+    200
+   ],
+   "size": 14,
+   "type": "stock:objtype/0xD",
+   "uid": "from_e_0x4"
+  },
+  {
+   "fields": {
+    "animGroup": -1,
+    "arg1A": 1,
+    "condition": -1,
+    "levelHigh": 255,
+    "radius": 60,
+    "startPoint": 0,
+    "unlockWorld": -1
+   },
+   "name": "to p_0x17b",
+   "pos": [
+    450,
+    2,
+    400
+   ],
+   "size": 28,
+   "target": "pack:level/p_0x17b",
+   "type": "stock:objtype/0xB",
+   "uid": "to_p_0x17b1"
+  },
+  {
+   "fields": {
+    "player": 0,
+    "startPoint": 13,
+    "yaw": 0
+   },
+   "name": "from p_0x17b",
+   "pos": [
+    450,
+    8,
+    200
+   ],
+   "size": 14,
+   "type": "stock:objtype/0xD",
+   "uid": "from_p_0x17b1"
+  },
+  {
+   "fields": {
+    "animGroup": -1,
+    "arg1A": 1,
+    "condition": -1,
+    "levelHigh": 255,
+    "radius": 60,
+    "startPoint": 0,
+    "unlockWorld": -1
+   },
+   "name": "to p_0x283",
+   "pos": [
+    750,
+    2,
+    400
+   ],
+   "size": 28,
+   "target": "pack:level/p_0x283",
+   "type": "stock:objtype/0xB",
+   "uid": "to_p_0x1"
+  },
+  {
+   "fields": {
+    "player": 0,
+    "startPoint": 14,
+    "yaw": 0
+   },
+   "name": "from p_0x283",
+   "pos": [
+    750,
+    8,
+    200
+   ],
+   "size": 14,
+   "type": "stock:objtype/0xD",
+   "uid": "from_p_0x1"
+  },
+  {
+   "fields": {
+    "animGroup": -1,
+    "arg1A": 1,
+    "condition": -1,
+    "levelHigh": 255,
+    "radius": 60,
+    "startPoint": 0,
+    "unlockWorld": -1
+   },
+   "name": "to p_0x47",
+   "pos": [
+    1050,
+    2,
+    400
+   ],
+   "size": 28,
+   "target": "pack:level/p_0x47",
+   "type": "stock:objtype/0xB",
+   "uid": "to_p_0x2"
+  },
+  {
+   "fields": {
+    "player": 0,
+    "startPoint": 15,
+    "yaw": 0
+   },
+   "name": "from p_0x47",
+   "pos": [
+    1050,
+    8,
+    200
+   ],
+   "size": 14,
+   "type": "stock:objtype/0xD",
+   "uid": "from_p_0x2"
+  },
+  {
+   "fields": {
+    "animGroup": -1,
+    "arg1A": 1,
+    "condition": -1,
+    "levelHigh": 255,
+    "radius": 60,
+    "startPoint": 5,
+    "unlockWorld": -1
+   },
+   "name": "back to the game",
+   "pos": [
+    -1050,
+    2,
+    400
+   ],
+   "size": 28,
+   "target": "pack:level/village",
+   "type": "stock:objtype/0xB",
+   "uid": "back_to_the_game1"
+  },
+  {
+   "fields": {
+    "animGroup": -1,
+    "arg1A": 1,
+    "condition": -1,
+    "levelHigh": 255,
+    "radius": 60,
+    "startPoint": 0,
+    "unlockWorld": -1
+   },
+   "name": "to e_0xea",
+   "pos": [
+    1350,
+    2,
+    -400
+   ],
+   "size": 28,
+   "target": "pack:level/e_0xea",
+   "type": "stock:objtype/0xB",
+   "uid": "to_e_0xea1"
+  },
+  {
+   "fields": {
+    "player": 0,
+    "startPoint": 16,
+    "yaw": 32
+   },
+   "name": "from e_0xea",
+   "pos": [
+    1350,
+    8,
+    -200
+   ],
+   "size": 14,
+   "type": "stock:objtype/0xD",
+   "uid": "from_e_0xea1"
+  },
+  {
+   "fields": {
+    "animGroup": -1,
+    "arg1A": 1,
+    "condition": -1,
+    "levelHigh": 255,
+    "radius": 60,
+    "startPoint": 0,
+    "unlockWorld": -1
+   },
+   "name": "to p_0x6e",
+   "pos": [
+    1650,
+    2,
+    -400
+   ],
+   "size": 28,
+   "target": "pack:level/p_0x6e",
+   "type": "stock:objtype/0xB",
+   "uid": "to_p_0x6e1"
+  },
+  {
+   "fields": {
+    "player": 0,
+    "startPoint": 17,
+    "yaw": 32
+   },
+   "name": "from p_0x6e",
+   "pos": [
+    1650,
+    8,
+    -200
+   ],
+   "size": 14,
+   "type": "stock:objtype/0xD",
+   "uid": "from_p_0x6e1"
+  },
+  {
+   "fields": {
+    "animGroup": -1,
+    "arg1A": 1,
+    "condition": -1,
+    "levelHigh": 255,
+    "radius": 60,
+    "startPoint": 0,
+    "unlockWorld": -1
+   },
+   "name": "to p_hints",
+   "pos": [
+    1950,
+    2,
+    -400
+   ],
+   "size": 28,
+   "target": "pack:level/p_hints",
+   "type": "stock:objtype/0xB",
+   "uid": "to_p_hints1"
+  },
+  {
+   "fields": {
+    "player": 0,
+    "startPoint": 18,
+    "yaw": 32
+   },
+   "name": "from p_hints",
+   "pos": [
+    1950,
+    8,
+    -200
+   ],
+   "size": 14,
+   "type": "stock:objtype/0xD",
+   "uid": "from_p_hints1"
+  },
+  {
+   "fields": {
+    "animGroup": -1,
+    "arg1A": 1,
+    "condition": -1,
+    "levelHigh": 255,
+    "radius": 60,
+    "startPoint": 0,
+    "unlockWorld": -1
+   },
+   "name": "to p_targets",
+   "pos": [
+    2250,
+    2,
+    -400
+   ],
+   "size": 28,
+   "target": "pack:level/p_targets",
+   "type": "stock:objtype/0xB",
+   "uid": "to_p_targets1"
+  },
+  {
+   "fields": {
+    "player": 0,
+    "startPoint": 19,
+    "yaw": 32
+   },
+   "name": "from p_targets",
+   "pos": [
+    2250,
+    8,
+    -200
+   ],
+   "size": 14,
+   "type": "stock:objtype/0xD",
+   "uid": "from_p_targets1"
+  },
+  {
+   "fields": {
+    "animGroup": -1,
+    "arg1A": 1,
+    "condition": -1,
+    "levelHigh": 255,
+    "radius": 60,
+    "startPoint": 0,
+    "unlockWorld": -1
+   },
+   "name": "to p_pickups",
+   "pos": [
+    1350,
+    2,
+    400
+   ],
+   "size": 28,
+   "target": "pack:level/p_pickups",
+   "type": "stock:objtype/0xB",
+   "uid": "to_p_pickups1"
+  },
+  {
+   "fields": {
+    "player": 0,
+    "startPoint": 20,
+    "yaw": 0
+   },
+   "name": "from p_pickups",
+   "pos": [
+    1350,
+    8,
+    200
+   ],
+   "size": 14,
+   "type": "stock:objtype/0xD",
+   "uid": "from_p_pickups1"
+  },
+  {
+   "fields": {
+    "animGroup": -1,
+    "arg1A": 1,
+    "condition": -1,
+    "levelHigh": 255,
+    "radius": 60,
+    "startPoint": 0,
+    "unlockWorld": -1
+   },
+   "name": "to p_props",
+   "pos": [
+    1650,
+    2,
+    400
+   ],
+   "size": 28,
+   "target": "pack:level/p_props",
+   "type": "stock:objtype/0xB",
+   "uid": "to_p_props1"
+  },
+  {
+   "fields": {
+    "player": 0,
+    "startPoint": 21,
+    "yaw": 0
+   },
+   "name": "from p_props",
+   "pos": [
+    1650,
+    8,
+    200
+   ],
+   "size": 14,
+   "type": "stock:objtype/0xD",
+   "uid": "from_p_props1"
+  },
+  {
+   "fields": {
+    "animGroup": -1,
+    "arg1A": 1,
+    "condition": -1,
+    "levelHigh": 255,
+    "radius": 60,
+    "startPoint": 0,
+    "unlockWorld": -1
+   },
+   "name": "to p_lights",
+   "pos": [
+    1950,
+    2,
+    400
+   ],
+   "size": 28,
+   "target": "pack:level/p_lights",
+   "type": "stock:objtype/0xB",
+   "uid": "to_p_lights1"
+  },
+  {
+   "fields": {
+    "player": 0,
+    "startPoint": 22,
+    "yaw": 0
+   },
+   "name": "from p_lights",
+   "pos": [
+    1950,
+    8,
+    200
+   ],
+   "size": 14,
+   "type": "stock:objtype/0xD",
+   "uid": "from_p_lights1"
+  },
+  {
+   "fields": {
+    "animGroup": -1,
+    "arg1A": 1,
+    "condition": -1,
+    "levelHigh": 255,
+    "radius": 60,
+    "startPoint": 0,
+    "unlockWorld": -1
+   },
+   "name": "to p_paths",
+   "pos": [
+    2250,
+    2,
+    400
+   ],
+   "size": 28,
+   "target": "pack:level/p_paths",
+   "type": "stock:objtype/0xB",
+   "uid": "to_p_paths1"
+  },
+  {
+   "fields": {
+    "player": 0,
+    "startPoint": 23,
+    "yaw": 0
+   },
+   "name": "from p_paths",
+   "pos": [
+    2250,
+    8,
+    200
+   ],
+   "size": 14,
+   "type": "stock:objtype/0xD",
+   "uid": "from_p_paths1"
+  },
+  {
+   "fields": {
+    "animGroup": -1,
+    "arg1A": 1,
+    "condition": -1,
+    "levelHigh": 255,
+    "radius": 60,
+    "startPoint": 0,
+    "unlockWorld": -1
+   },
+   "name": "to e_heroes",
+   "pos": [
+    2550,
+    2,
+    -400
+   ],
+   "size": 28,
+   "target": "pack:level/e_heroes",
+   "type": "stock:objtype/0xB",
+   "uid": "to_e_heroes1"
+  },
+  {
+   "fields": {
+    "player": 0,
+    "startPoint": 24,
+    "yaw": 32
+   },
+   "name": "from e_heroes",
+   "pos": [
+    2550,
+    8,
+    -200
+   ],
+   "size": 14,
+   "type": "stock:objtype/0xD",
+   "uid": "from_e_heroes1"
+  }
+ ]
+}

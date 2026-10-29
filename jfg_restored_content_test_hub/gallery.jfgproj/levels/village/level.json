@@ -1,0 +1,7 @@
+{
+ "base": "stock:level/47",
+ "format": 1,
+ "header": {},
+ "name": "Stock level 47",
+ "track": "stock:track/40"
+}

@@ -1,0 +1,114 @@
+[
+ {
+  "anim": 5,
+  "expect": {
+   "altAction": 0
+  },
+  "row": 7,
+  "set": {
+   "altAction": 1
+  }
+ },
+ {
+  "anim": 7,
+  "expect": {
+   "altAction": 0
+  },
+  "row": 7,
+  "set": {
+   "altAction": 3
+  }
+ },
+ {
+  "anim": 10,
+  "expect": {
+   "altAction": 0,
+   "fireSet": null
+  },
+  "row": 7,
+  "set": {
+   "altAction": 5,
+   "fireSet": 0
+  }
+ },
+ {
+  "anim": 16,
+  "expect": {
+   "action": 1
+  },
+  "row": 17,
+  "set": {
+   "action": 53
+  }
+ },
+ {
+  "anim": 17,
+  "expect": {
+   "action": 1
+  },
+  "row": 17,
+  "set": {
+   "action": 53
+  }
+ },
+ {
+  "anim": 18,
+  "expect": {
+   "action": 1
+  },
+  "row": 17,
+  "set": {
+   "action": 53
+  }
+ },
+ {
+  "anim": 19,
+  "expect": {
+   "action": 1
+  },
+  "row": 17,
+  "set": {
+   "action": 53
+  }
+ },
+ {
+  "anim": 20,
+  "expect": {
+   "action": 1
+  },
+  "row": 17,
+  "set": {
+   "action": 53
+  }
+ },
+ {
+  "anim": 21,
+  "expect": {
+   "action": 1
+  },
+  "row": 17,
+  "set": {
+   "action": 53
+  }
+ },
+ {
+  "anim": 22,
+  "expect": {
+   "action": 1
+  },
+  "row": 17,
+  "set": {
+   "action": 53
+  }
+ },
+ {
+  "anim": 18,
+  "expect": {
+   "fireSet": null
+  },
+  "row": 32,
+  "set": {
+   "fireSet": 32
+  }
+ }
+]

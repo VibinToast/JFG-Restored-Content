@@ -1,0 +1,484 @@
+{
+ "format": 1,
+ "objects": [
+  {
+   "fields": {
+    "player": 0,
+    "startPoint": 0,
+    "yaw": 0
+   },
+   "pos": [
+    0,
+    8,
+    1050
+   ],
+   "size": 14,
+   "type": "stock:objtype/0xD",
+   "uid": "startpoint1"
+  },
+  {
+   "fields": {
+    "corner": 0,
+    "region": 1
+   },
+   "name": "region1_0",
+   "pos": [
+    -700,
+    2,
+    -700
+   ],
+   "size": 12,
+   "type": "stock:objtype/0x5",
+   "uid": "region1"
+  },
+  {
+   "fields": {
+    "corner": 1,
+    "region": 1
+   },
+   "name": "region1_1",
+   "pos": [
+    700,
+    2,
+    -700
+   ],
+   "size": 12,
+   "type": "stock:objtype/0x5",
+   "uid": "region2"
+  },
+  {
+   "fields": {
+    "corner": 2,
+    "region": 1
+   },
+   "name": "region1_2",
+   "pos": [
+    700,
+    2,
+    700
+   ],
+   "size": 12,
+   "type": "stock:objtype/0x5",
+   "uid": "region3"
+  },
+  {
+   "fields": {
+    "corner": 3,
+    "region": 1
+   },
+   "name": "region1_3",
+   "pos": [
+    -700,
+    2,
+    700
+   ],
+   "size": 12,
+   "type": "stock:objtype/0x5",
+   "uid": "region4"
+  },
+  {
+   "fields": {
+    "baddyType": 358,
+    "count": 1,
+    "doorId": 0,
+    "heading": -128,
+    "region": 1,
+    "size": 75,
+    "squadronId": 1,
+    "trigger": 3
+   },
+   "name": "enemy squad",
+   "pos": [
+    0,
+    92,
+    -200
+   ],
+   "stock": {
+    "entry": 9,
+    "list": 581
+   },
+   "type": "stock:objtype/0x4F",
+   "uid": "enemy_squad1"
+  },
+  {
+   "fields": {
+    "squadron": 1,
+    "yaw": 128
+   },
+   "name": "enemy",
+   "pos": [
+    0,
+    8,
+    -50
+   ],
+   "schema": "squadmember",
+   "stock": {
+    "entry": 157,
+    "list": 407
+   },
+   "type": "stock:objtype/0x166",
+   "uid": "enemy1"
+  },
+  {
+   "fields": {
+    "corner": 0,
+    "region": 2
+   },
+   "name": "hole2_0",
+   "pos": [
+    -540,
+    0,
+    -540
+   ],
+   "size": 12,
+   "type": "stock:objtype/0x5",
+   "uid": "hole1"
+  },
+  {
+   "fields": {
+    "corner": 1,
+    "region": 2
+   },
+   "name": "hole2_1",
+   "pos": [
+    -540,
+    0,
+    -360
+   ],
+   "size": 12,
+   "type": "stock:objtype/0x5",
+   "uid": "hole2"
+  },
+  {
+   "fields": {
+    "corner": 2,
+    "region": 2
+   },
+   "name": "hole2_2",
+   "pos": [
+    -360,
+    0,
+    -360
+   ],
+   "size": 12,
+   "type": "stock:objtype/0x5",
+   "uid": "hole3"
+  },
+  {
+   "fields": {
+    "corner": 3,
+    "region": 2
+   },
+   "name": "hole2_3",
+   "pos": [
+    -360,
+    0,
+    -540
+   ],
+   "size": 12,
+   "type": "stock:objtype/0x5",
+   "uid": "hole4"
+  },
+  {
+   "fields": {
+    "anchored": 0,
+    "flags": 1,
+    "link": 1,
+    "region": 2
+   },
+   "name": "hole2",
+   "pos": [
+    -450,
+    0,
+    -450
+   ],
+   "size": 18,
+   "type": "stock:objtype/0x69",
+   "uid": "hole5"
+  },
+  {
+   "fields": {
+    "corner": 0,
+    "region": 3
+   },
+   "name": "hole3_0",
+   "pos": [
+    -540,
+    0,
+    360
+   ],
+   "size": 12,
+   "type": "stock:objtype/0x5",
+   "uid": "hole6"
+  },
+  {
+   "fields": {
+    "corner": 1,
+    "region": 3
+   },
+   "name": "hole3_1",
+   "pos": [
+    -540,
+    0,
+    540
+   ],
+   "size": 12,
+   "type": "stock:objtype/0x5",
+   "uid": "hole7"
+  },
+  {
+   "fields": {
+    "corner": 2,
+    "region": 3
+   },
+   "name": "hole3_2",
+   "pos": [
+    -360,
+    0,
+    540
+   ],
+   "size": 12,
+   "type": "stock:objtype/0x5",
+   "uid": "hole8"
+  },
+  {
+   "fields": {
+    "corner": 3,
+    "region": 3
+   },
+   "name": "hole3_3",
+   "pos": [
+    -360,
+    0,
+    360
+   ],
+   "size": 12,
+   "type": "stock:objtype/0x5",
+   "uid": "hole9"
+  },
+  {
+   "fields": {
+    "anchored": 0,
+    "flags": 1,
+    "link": 1,
+    "region": 3
+   },
+   "name": "hole3",
+   "pos": [
+    -450,
+    0,
+    450
+   ],
+   "size": 18,
+   "type": "stock:objtype/0x69",
+   "uid": "hole10"
+  },
+  {
+   "fields": {
+    "corner": 0,
+    "region": 4
+   },
+   "name": "hole4_0",
+   "pos": [
+    360,
+    0,
+    -540
+   ],
+   "size": 12,
+   "type": "stock:objtype/0x5",
+   "uid": "hole11"
+  },
+  {
+   "fields": {
+    "corner": 1,
+    "region": 4
+   },
+   "name": "hole4_1",
+   "pos": [
+    360,
+    0,
+    -360
+   ],
+   "size": 12,
+   "type": "stock:objtype/0x5",
+   "uid": "hole12"
+  },
+  {
+   "fields": {
+    "corner": 2,
+    "region": 4
+   },
+   "name": "hole4_2",
+   "pos": [
+    540,
+    0,
+    -360
+   ],
+   "size": 12,
+   "type": "stock:objtype/0x5",
+   "uid": "hole13"
+  },
+  {
+   "fields": {
+    "corner": 3,
+    "region": 4
+   },
+   "name": "hole4_3",
+   "pos": [
+    540,
+    0,
+    -540
+   ],
+   "size": 12,
+   "type": "stock:objtype/0x5",
+   "uid": "hole14"
+  },
+  {
+   "fields": {
+    "anchored": 0,
+    "flags": 1,
+    "link": 1,
+    "region": 4
+   },
+   "name": "hole4",
+   "pos": [
+    450,
+    0,
+    -450
+   ],
+   "size": 18,
+   "type": "stock:objtype/0x69",
+   "uid": "hole15"
+  },
+  {
+   "fields": {
+    "corner": 0,
+    "region": 5
+   },
+   "name": "hole5_0",
+   "pos": [
+    360,
+    0,
+    360
+   ],
+   "size": 12,
+   "type": "stock:objtype/0x5",
+   "uid": "hole16"
+  },
+  {
+   "fields": {
+    "corner": 1,
+    "region": 5
+   },
+   "name": "hole5_1",
+   "pos": [
+    360,
+    0,
+    540
+   ],
+   "size": 12,
+   "type": "stock:objtype/0x5",
+   "uid": "hole17"
+  },
+  {
+   "fields": {
+    "corner": 2,
+    "region": 5
+   },
+   "name": "hole5_2",
+   "pos": [
+    540,
+    0,
+    540
+   ],
+   "size": 12,
+   "type": "stock:objtype/0x5",
+   "uid": "hole18"
+  },
+  {
+   "fields": {
+    "corner": 3,
+    "region": 5
+   },
+   "name": "hole5_3",
+   "pos": [
+    540,
+    0,
+    360
+   ],
+   "size": 12,
+   "type": "stock:objtype/0x5",
+   "uid": "hole19"
+  },
+  {
+   "fields": {
+    "anchored": 0,
+    "flags": 1,
+    "link": 1,
+    "region": 5
+   },
+   "name": "hole5",
+   "pos": [
+    450,
+    0,
+    450
+   ],
+   "size": 18,
+   "type": "stock:objtype/0x69",
+   "uid": "hole20"
+  },
+  {
+   "fields": {
+    "player": 0,
+    "startPoint": 1,
+    "yaw": 0
+   },
+   "name": "test start",
+   "pos": [
+    0,
+    8,
+    550
+   ],
+   "size": 14,
+   "type": "stock:objtype/0xD",
+   "uid": "test_start1"
+  },
+  {
+   "fields": {
+    "player": 0,
+    "startPoint": 2,
+    "yaw": 0
+   },
+   "name": "close start",
+   "pos": [
+    0,
+    8,
+    200
+   ],
+   "size": 14,
+   "type": "stock:objtype/0xD",
+   "uid": "close_start1"
+  },
+  {
+   "fields": {
+    "animGroup": -1,
+    "arg1A": 1,
+    "condition": -1,
+    "levelHigh": 255,
+    "radius": 70,
+    "startPoint": 2,
+    "unlockWorld": -1
+   },
+   "name": "back to the hub",
+   "pos": [
+    0,
+    2,
+    1270
+   ],
+   "size": 28,
+   "target": "pack:level/hub",
+   "type": "stock:objtype/0xB",
+   "uid": "back_to_the_hub1"
+  }
+ ]
+}

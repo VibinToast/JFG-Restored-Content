@@ -1,0 +1,246 @@
+{
+ "format": 1,
+ "objects": [
+  {
+   "fields": {
+    "player": 0,
+    "startPoint": 0,
+    "yaw": 0
+   },
+   "name": "start",
+   "pos": [
+    0,
+    8,
+    1050
+   ],
+   "size": 14,
+   "type": "stock:objtype/0xD",
+   "uid": "start1"
+  },
+  {
+   "fields": {
+    "animGroup": -1,
+    "arg1A": 1,
+    "condition": -1,
+    "levelHigh": 255,
+    "radius": 70,
+    "startPoint": 22,
+    "unlockWorld": -1
+   },
+   "name": "back to the hub",
+   "pos": [
+    0,
+    2,
+    1270
+   ],
+   "size": 28,
+   "target": "pack:level/hub",
+   "type": "stock:objtype/0xB",
+   "uid": "back_to_the_hub1"
+  },
+  {
+   "fields": {
+    "blue": 160,
+    "colourCycle": 8,
+    "flags": 64,
+    "green": 220,
+    "halfHeight": 8,
+    "intensity": 255,
+    "kind": 19,
+    "radius": 500,
+    "red": 255
+   },
+   "name": "light for the window",
+   "pos": [
+    -450,
+    302,
+    -250
+   ],
+   "size": 32,
+   "type": "stock:objtype/0x10",
+   "uid": "light_for_the_window1"
+  },
+  {
+   "fields": {
+    "keyLock": 7,
+    "yaw": 0
+   },
+   "name": "lime key door",
+   "pos": [
+    0,
+    2,
+    -770
+   ],
+   "schema": "door",
+   "stock": {
+    "entry": 8,
+    "list": 438
+   },
+   "type": "stock:objtype/0xDA",
+   "uid": "green_key_door1"
+  },
+  {
+   "fields": {
+    "cutscene": 0,
+    "follow": 0,
+    "size": 64,
+    "yaw": 128
+   },
+   "name": "lock light 0xD4",
+   "pos": [
+    -300,
+    122,
+    -780
+   ],
+   "size": 16,
+   "type": "stock:objtype/0xD4",
+   "uid": "lock_light_0xd1"
+  },
+  {
+   "fields": {
+    "cutscene": 0,
+    "follow": 0,
+    "size": 64,
+    "yaw": 128
+   },
+   "name": "lock light 0xD6",
+   "pos": [
+    -200,
+    122,
+    -780
+   ],
+   "size": 16,
+   "type": "stock:objtype/0xD6",
+   "uid": "lock_light_0xd2"
+  },
+  {
+   "fields": {
+    "cutscene": 0,
+    "follow": 0,
+    "size": 64,
+    "yaw": 128
+   },
+   "name": "lock light 0xD7",
+   "pos": [
+    200,
+    122,
+    -780
+   ],
+   "size": 16,
+   "type": "stock:objtype/0xD7",
+   "uid": "lock_light_0xd3"
+  },
+  {
+   "fields": {
+    "cutscene": 0,
+    "follow": 1,
+    "size": 64,
+    "yaw": 128
+   },
+   "name": "lock light 0xD8",
+   "pos": [
+    300,
+    122,
+    -780
+   ],
+   "size": 16,
+   "type": "stock:objtype/0xD8",
+   "uid": "lock_light_0xd4"
+  },
+  {
+   "fields": {
+    "cutscene": 0,
+    "follow": 1,
+    "size": 64,
+    "yaw": 128
+   },
+   "name": "lock light 0xD9",
+   "pos": [
+    400,
+    122,
+    -780
+   ],
+   "size": 16,
+   "type": "stock:objtype/0xD9",
+   "uid": "lock_light_0xd5"
+  },
+  {
+   "name": "spinning light red",
+   "params": "000000ff3c3cff4040c0008000000000005a",
+   "pos": [
+    450,
+    400,
+    -450
+   ],
+   "size": 28,
+   "type": "stock:objtype/0x62",
+   "uid": "spinning_light_red_raw"
+  },
+  {
+   "name": "spinning light green swing",
+   "params": "0000003cff3cff4040c00080000001000078",
+   "pos": [
+    -450,
+    400,
+    250
+   ],
+   "size": 28,
+   "type": "stock:objtype/0x62",
+   "uid": "spinning_light_green_swing_raw"
+  },
+  {
+   "name": "window light",
+   "params": "000000000000ff28",
+   "pos": [
+    -450,
+    300,
+    -450
+   ],
+   "size": 18,
+   "type": "stock:objtype/0x1D0",
+   "uid": "window_light_raw"
+  },
+  {
+   "fields": {
+    "player": 0,
+    "startPoint": 1,
+    "yaw": 0
+   },
+   "name": "inside",
+   "pos": [
+    0,
+    8,
+    250
+   ],
+   "size": 14,
+   "type": "stock:objtype/0xD",
+   "uid": "inside1"
+  },
+  {
+   "name": "light show",
+   "params": "04ff000000000600ff3c3c0a141900010040000006003cff3c0a141900010080000006003c3cff0a1419000100c000000600ffe63c0a14190001",
+   "pos": [
+    300,
+    100,
+    -200
+   ],
+   "size": 68,
+   "type": "stock:objtype/0x2C2",
+   "uid": "light_show_raw"
+  },
+  {
+   "fields": {
+    "size": 64
+   },
+   "name": "lime key",
+   "pos": [
+    0,
+    22,
+    500
+   ],
+   "size": 14,
+   "type": "stock:objtype/0x25D",
+   "uid": "lime_key1"
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "format": 1,
+ "header": {
+  "cutsceneData": 3,
+  "fog3": 0,
+  "fogB": 0,
+  "fogFar": 0,
+  "fogG": 0,
+  "fogNear": 0,
+  "fogR": 0,
+  "region": 0,
+  "regionIndex": 0,
+  "tune": 4,
+  "tuneChannelMask": 65535,
+  "world": 15
+ },
+ "name": "Path props",
+ "paths": [
+  {
+   "loop": true,
+   "object": "stock:objtype/0x49",
+   "points": [
+    [
+     300.0,
+     40.0,
+     -250.0
+    ],
+    [
+     300.0,
+     400.0,
+     -250.0
+    ]
+   ],
+   "speed": 100.0,
+   "start": "level"
+  }
+ ],
+ "sky": -1,
+ "track": "pack:track/room"
+}

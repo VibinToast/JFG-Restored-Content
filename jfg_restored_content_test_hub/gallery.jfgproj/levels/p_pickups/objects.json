@@ -1,0 +1,232 @@
+{
+ "format": 1,
+ "objects": [
+  {
+   "fields": {
+    "player": 0,
+    "startPoint": 0,
+    "yaw": 0
+   },
+   "name": "start",
+   "pos": [
+    0,
+    8,
+    1050
+   ],
+   "size": 14,
+   "type": "stock:objtype/0xD",
+   "uid": "start1"
+  },
+  {
+   "fields": {
+    "animGroup": -1,
+    "arg1A": 1,
+    "condition": -1,
+    "levelHigh": 255,
+    "radius": 70,
+    "startPoint": 20,
+    "unlockWorld": -1
+   },
+   "name": "back to the hub",
+   "pos": [
+    0,
+    2,
+    1270
+   ],
+   "size": 28,
+   "target": "pack:level/hub",
+   "type": "stock:objtype/0xB",
+   "uid": "back_to_the_hub1"
+  },
+  {
+   "fields": {
+    "size": 64
+   },
+   "name": "key 0x25C",
+   "pos": [
+    -300,
+    22,
+    -100
+   ],
+   "size": 14,
+   "type": "stock:objtype/0x25C",
+   "uid": "key_0x25c1"
+  },
+  {
+   "fields": {
+    "size": 64
+   },
+   "name": "key 0x25D",
+   "pos": [
+    -150,
+    22,
+    -100
+   ],
+   "size": 14,
+   "type": "stock:objtype/0x25D",
+   "uid": "key_0x25d1"
+  },
+  {
+   "fields": {
+    "size": 64
+   },
+   "name": "key 0x25E",
+   "pos": [
+    0,
+    22,
+    -100
+   ],
+   "size": 14,
+   "type": "stock:objtype/0x25E",
+   "uid": "key_0x25e1"
+  },
+  {
+   "fields": {
+    "size": 64
+   },
+   "name": "key 0x25F",
+   "pos": [
+    150,
+    22,
+    -100
+   ],
+   "size": 14,
+   "type": "stock:objtype/0x25F",
+   "uid": "key_0x25f1"
+  },
+  {
+   "fields": {
+    "size": 64
+   },
+   "name": "key 0x260",
+   "pos": [
+    300,
+    22,
+    -100
+   ],
+   "size": 14,
+   "type": "stock:objtype/0x260",
+   "uid": "key_0x1"
+  },
+  {
+   "fields": {
+    "respawn": 10,
+    "weapon": 2
+   },
+   "name": "ammo clip (machine gun)",
+   "pos": [
+    -300,
+    22,
+    -350
+   ],
+   "size": 16,
+   "type": "stock:objtype/0x17E",
+   "uid": "ammo_clip__machine_gun1"
+  },
+  {
+   "fields": {},
+   "name": "ship blueprints",
+   "pos": [
+    0,
+    22,
+    -350
+   ],
+   "schema": "collectable",
+   "size": 12,
+   "type": "stock:objtype/0x2ED",
+   "uid": "ship_blueprints1"
+  },
+  {
+   "name": "machine gun pickup",
+   "params": "000a",
+   "pos": [
+    -450,
+    20,
+    -350
+   ],
+   "size": 12,
+   "type": "stock:objtype/0xFC",
+   "uid": "machine_gun_pickup_raw"
+  },
+  {
+   "name": "invincibility",
+   "params": "0a0a",
+   "pos": [
+    150,
+    20,
+    -350
+   ],
+   "size": 12,
+   "type": "stock:objtype/0x33C",
+   "uid": "invincibility_raw"
+  },
+  {
+   "name": "invisibility",
+   "params": "0a0a",
+   "pos": [
+    300,
+    20,
+    -350
+   ],
+   "size": 12,
+   "type": "stock:objtype/0x12A",
+   "uid": "invisibility_raw"
+  },
+  {
+   "name": "magazine",
+   "params": "08003f800000",
+   "pos": [
+    450,
+    40,
+    -350
+   ],
+   "size": 16,
+   "type": "stock:objtype/0x18A",
+   "uid": "magazine_raw"
+  },
+  {
+   "name": "proximity mine pickup",
+   "params": "000a",
+   "pos": [
+    0,
+    20,
+    -550
+   ],
+   "size": 12,
+   "type": "stock:objtype/0x126",
+   "uid": "proximity_mine_pickup_raw"
+  },
+  {
+   "fields": {
+    "player": 0,
+    "startPoint": 1,
+    "yaw": 0
+   },
+   "name": "inside",
+   "pos": [
+    0,
+    8,
+    250
+   ],
+   "size": 14,
+   "type": "stock:objtype/0xD",
+   "uid": "inside1"
+  },
+  {
+   "fields": {
+    "player": 0,
+    "startPoint": 2,
+    "yaw": 0
+   },
+   "name": "on the mine",
+   "pos": [
+    0,
+    8,
+    -520
+   ],
+   "size": 14,
+   "type": "stock:objtype/0xD",
+   "uid": "on_the_mine1"
+  }
+ ]
+}

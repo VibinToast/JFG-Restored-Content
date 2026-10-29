@@ -1,0 +1,22 @@
+{
+ "authors": [
+  "VibinToast"
+ ],
+ "dependencies": [
+  {
+   "id": "jfg_restored_content",
+   "project": "../../jfg_restored_content/restored_content.jfgproj",
+   "version": "0.1.0"
+  }
+ ],
+ "description": "A hub of rooms, one for each piece of the game's cut content brought back: its enemies, props, pickups, lights and the heroes' unused bodies. Walk up to a door and its sign tells you what is behind it. To get there, take the warp in front of King Jeff's house; the hub's exit brings you back. Uses Restored Content, which is installed with it.",
+ "format": 1,
+ "id": "jfg_restored_content_test_hub",
+ "name": "Restored Content Gallery",
+ "version": "0.2.0",
+ "shortDescription": "A hub of rooms showing every cut enemy, prop, pickup and light. Warp in front of King Jeff's house.",
+ "tags": [
+  "Levels",
+  "Content"
+ ]
+}

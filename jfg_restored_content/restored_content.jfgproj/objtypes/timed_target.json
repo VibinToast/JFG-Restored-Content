@@ -1,0 +1,5 @@
+{
+ "base": "stock:objtype/0x245",
+ "behaviour": 119,
+ "name": "Timed target"
+}

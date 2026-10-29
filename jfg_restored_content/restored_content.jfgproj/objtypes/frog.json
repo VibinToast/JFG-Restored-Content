@@ -1,0 +1,5 @@
+{
+ "base": "stock:objtype/0x30A",
+ "behaviour": 21,
+ "name": "Frog (a stand-in model)"
+}

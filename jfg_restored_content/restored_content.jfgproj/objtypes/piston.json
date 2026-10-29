@@ -1,0 +1,6 @@
+{
+ "bakeJoints": true,
+ "base": "stock:objtype/0x13F",
+ "copyModel": true,
+ "name": "Piston (still, parts in place)"
+}

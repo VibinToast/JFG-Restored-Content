@@ -1,0 +1,73 @@
+{
+ "format": 1,
+ "objects": [
+  {
+   "fields": {
+    "player": 0,
+    "startPoint": 0,
+    "yaw": 0
+   },
+   "pos": [
+    0,
+    8,
+    1050
+   ],
+   "size": 14,
+   "type": "stock:objtype/0xD",
+   "uid": "startpoint1"
+  },
+  {
+   "name": "bomb pad",
+   "pos": [
+    0,
+    2,
+    -200
+   ],
+   "schema": "refuel",
+   "stock": {
+    "entry": 31,
+    "list": 406
+   },
+   "type": "jfg_restored_content:objtype/bombpad",
+   "uid": "bomb_pad1"
+  },
+  {
+   "fields": {
+    "bottom": -10,
+    "maxFuel": 10,
+    "radius": 40,
+    "top": 60
+   },
+   "name": "stock refuel pad (control)",
+   "pos": [
+    300,
+    2,
+    -200
+   ],
+   "size": 16,
+   "type": "stock:objtype/0xB9",
+   "uid": "stock_refuel_pad__control1"
+  },
+  {
+   "fields": {
+    "animGroup": -1,
+    "arg1A": 1,
+    "condition": -1,
+    "levelHigh": 255,
+    "radius": 70,
+    "startPoint": 13,
+    "unlockWorld": -1
+   },
+   "name": "back to the hub",
+   "pos": [
+    0,
+    2,
+    1270
+   ],
+   "size": 28,
+   "target": "pack:level/hub",
+   "type": "stock:objtype/0xB",
+   "uid": "back_to_the_hub1"
+  }
+ ]
+}

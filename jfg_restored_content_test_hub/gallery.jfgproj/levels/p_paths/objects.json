@@ -1,0 +1,93 @@
+{
+ "format": 1,
+ "objects": [
+  {
+   "fields": {
+    "player": 0,
+    "startPoint": 0,
+    "yaw": 0
+   },
+   "name": "start",
+   "pos": [
+    0,
+    8,
+    1050
+   ],
+   "size": 14,
+   "type": "stock:objtype/0xD",
+   "uid": "start1"
+  },
+  {
+   "fields": {
+    "animGroup": -1,
+    "arg1A": 1,
+    "condition": -1,
+    "levelHigh": 255,
+    "radius": 70,
+    "startPoint": 23,
+    "unlockWorld": -1
+   },
+   "name": "back to the hub",
+   "pos": [
+    0,
+    2,
+    1270
+   ],
+   "size": 28,
+   "target": "pack:level/hub",
+   "type": "stock:objtype/0xB",
+   "uid": "back_to_the_hub1"
+  },
+  {
+   "name": "logo",
+   "params": "",
+   "pos": [
+    -300,
+    150,
+    -100
+   ],
+   "size": 10,
+   "type": "stock:objtype/0x1DA",
+   "uid": "logo_raw"
+  },
+  {
+   "name": "drone generator",
+   "params": "",
+   "pos": [
+    0,
+    2,
+    -500
+   ],
+   "size": 10,
+   "type": "stock:objtype/0x2D7",
+   "uid": "drone_generator_raw"
+  },
+  {
+   "fields": {
+    "player": 0,
+    "startPoint": 1,
+    "yaw": 0
+   },
+   "name": "inside",
+   "pos": [
+    0,
+    8,
+    250
+   ],
+   "size": 14,
+   "type": "stock:objtype/0xD",
+   "uid": "inside1"
+  },
+  {
+   "name": "piston",
+   "pos": [
+    300,
+    8,
+    250
+   ],
+   "size": 10,
+   "type": "jfg_restored_content:objtype/piston",
+   "uid": "piston1"
+  }
+ ]
+}

@@ -1,0 +1,134 @@
+{
+ "format": 1,
+ "objects": [
+  {
+   "fields": {
+    "player": 0,
+    "startPoint": 0,
+    "yaw": 0
+   },
+   "name": "start",
+   "pos": [
+    0,
+    8,
+    1050
+   ],
+   "size": 14,
+   "type": "stock:objtype/0xD",
+   "uid": "start1"
+  },
+  {
+   "fields": {
+    "animGroup": -1,
+    "arg1A": 1,
+    "condition": -1,
+    "levelHigh": 255,
+    "radius": 70,
+    "startPoint": 17,
+    "unlockWorld": -1
+   },
+   "name": "back to the hub",
+   "pos": [
+    0,
+    2,
+    1270
+   ],
+   "size": 28,
+   "target": "pack:level/hub",
+   "type": "stock:objtype/0xB",
+   "uid": "back_to_the_hub1"
+  },
+  {
+   "name": "butterfly 0",
+   "params": "012c0064",
+   "pos": [
+    -300,
+    80,
+    -250
+   ],
+   "size": 14,
+   "type": "stock:objtype/0x6E",
+   "uid": "butterfly_0_raw"
+  },
+  {
+   "name": "butterfly 1",
+   "params": "012c0164",
+   "pos": [
+    0,
+    80,
+    -350
+   ],
+   "size": 14,
+   "type": "stock:objtype/0x6E",
+   "uid": "butterfly_1_raw"
+  },
+  {
+   "name": "butterfly 2",
+   "params": "012c0264",
+   "pos": [
+    300,
+    80,
+    -250
+   ],
+   "size": 14,
+   "type": "stock:objtype/0x6E",
+   "uid": "butterfly_2_raw"
+  },
+  {
+   "fields": {
+    "player": 0,
+    "startPoint": 1,
+    "yaw": 0
+   },
+   "name": "inside",
+   "pos": [
+    0,
+    8,
+    250
+   ],
+   "size": 14,
+   "type": "stock:objtype/0xD",
+   "uid": "inside1"
+  },
+  {
+   "name": "frog squashes",
+   "params": "012c0000",
+   "pos": [
+    -300,
+    2,
+    0
+   ],
+   "size": 14,
+   "type": "jfg_restored_content:objtype/frog",
+   "uid": "frog_squashes_raw"
+  },
+  {
+   "name": "frog vanishes",
+   "params": "012c0100",
+   "pos": [
+    300,
+    2,
+    0
+   ],
+   "size": 14,
+   "type": "jfg_restored_content:objtype/frog",
+   "uid": "frog_vanishes_raw"
+  },
+  {
+   "fields": {
+    "player": 0,
+    "startPoint": 2,
+    "yaw": 0
+   },
+   "name": "at the frog",
+   "pos": [
+    -300,
+    8,
+    250
+   ],
+   "size": 14,
+   "type": "stock:objtype/0xD",
+   "uid": "at_the_frog1"
+  }
+ ]
+}

@@ -1,0 +1,146 @@
+{
+ "format": 1,
+ "objects": [
+  {
+   "fields": {
+    "animGroup": -1,
+    "arg1A": 1,
+    "condition": -1,
+    "levelHigh": 255,
+    "radius": 60,
+    "startPoint": 0,
+    "unlockWorld": -1
+   },
+   "name": "to the test hub",
+   "pos": [
+    134,
+    -16,
+    358
+   ],
+   "size": 28,
+   "target": "pack:level/hub",
+   "type": "stock:objtype/0xB",
+   "uid": "to_the_test_hub1"
+  },
+  {
+   "fields": {
+    "player": 0,
+    "startPoint": 5,
+    "yaw": 0
+   },
+   "name": "from hub",
+   "pos": [
+    134,
+    -10,
+    200
+   ],
+   "size": 14,
+   "type": "stock:objtype/0xD",
+   "uid": "from_hub1"
+  },
+  {
+   "fields": {
+    "alpha": 230,
+    "blue": 30,
+    "distance": 6000,
+    "glare": 10,
+    "green": 40,
+    "red": 255,
+    "size": 140
+   },
+   "name": "portal marker",
+   "pos": [
+    134,
+    44,
+    358
+   ],
+   "size": 20,
+   "type": "stock:objtype/0xC8",
+   "uid": "portal_marker1"
+  },
+  {
+   "fields": {
+    "alpha": 200,
+    "blue": 30,
+    "fadeEnd": 60,
+    "fadeStart": 10,
+    "flags": 7,
+    "green": 40,
+    "height": 120,
+    "heightPct": 100,
+    "length": 600,
+    "pitch": 16384,
+    "red": 255,
+    "spreadZ": 0,
+    "width": 120,
+    "widthPct": 100
+   },
+   "name": "portal beam",
+   "pos": [
+    134,
+    -16,
+    358
+   ],
+   "size": 36,
+   "type": "stock:objtype/0xC3",
+   "uid": "portal_beam1"
+  },
+  {
+   "fields": {
+    "alpha": 200,
+    "blue": 30,
+    "distance": 6000,
+    "glare": 5,
+    "green": 40,
+    "red": 255,
+    "size": 100
+   },
+   "name": "portal marker high",
+   "pos": [
+    134,
+    204,
+    358
+   ],
+   "size": 20,
+   "type": "stock:objtype/0xC8",
+   "uid": "portal_marker_high1"
+  },
+  {
+   "fields": {
+    "blue": 20,
+    "colourCycle": 8,
+    "flags": 64,
+    "green": 20,
+    "halfHeight": 8,
+    "intensity": 255,
+    "kind": 19,
+    "radius": 450,
+    "red": 255
+   },
+   "name": "portal light",
+   "pos": [
+    134,
+    64,
+    358
+   ],
+   "size": 32,
+   "type": "stock:objtype/0x10",
+   "uid": "portal_light1"
+  },
+  {
+   "name": "portal pad",
+   "pos": [
+    134,
+    -16,
+    358
+   ],
+   "schema": "refuel",
+   "stock": {
+    "entry": 31,
+    "list": 406
+   },
+   "type": "jfg_restored_content:objtype/bombpad",
+   "uid": "portal_pad1"
+  }
+ ]
+}

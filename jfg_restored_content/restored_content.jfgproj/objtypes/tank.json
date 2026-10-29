@@ -1,0 +1,7 @@
+{
+ "base": "stock:objtype/0x283",
+ "behaviour": 48,
+ "copyModel": true,
+ "name": "Ant tank (solid)",
+ "rotate": 180
+}

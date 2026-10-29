@@ -1,0 +1,5 @@
+{
+ "base": "stock:objtype/0x18",
+ "behaviour": 31,
+ "name": "No-gravity box"
+}
